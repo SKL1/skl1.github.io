@@ -1,0 +1,23 @@
+p{
+	color:red;
+}
+h1{
+	color:red;
+}
+h2{
+	color:red;
+}
+h3{
+	color:red;
+}
+body{
+	
+	font-family: "Open Sans Condensed", monospace;
+	background: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center;
+}
+#demo{
+
+}
